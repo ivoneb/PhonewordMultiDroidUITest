@@ -1,0 +1,5 @@
+C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\PhonewordPCL\bin\Release\PhonewordPCL.dll
+C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\PhonewordPCL\bin\Release\PhonewordPCL.pdb
+C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\PhonewordPCL\obj\Release\PhonewordPCL.dll
+C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\PhonewordPCL\obj\Release\PhonewordPCL.pdb
+C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\PhonewordPCL\obj\Release\PhonewordPCL.csprojResolveAssemblyReference.cache
