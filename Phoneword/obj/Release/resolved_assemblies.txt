@@ -1,8 +1,0 @@
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\Phoneword\obj\Release\android\assets\Phoneword.dll
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\Phoneword\obj\Release\android\assets\Java.Interop.dll
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\Phoneword\obj\Release\android\assets\Mono.Android.dll
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\Phoneword\obj\Release\android\assets\System.Core.dll
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\Phoneword\obj\Release\android\assets\System.dll
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\Phoneword\obj\Release\android\assets\mscorlib.dll
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\Phoneword\obj\Release\android\assets\PhonewordPCL.dll
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiDroidUITest\Phoneword\obj\Release\android\assets\System.Runtime.Serialization.dll
