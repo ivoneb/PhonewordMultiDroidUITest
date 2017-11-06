@@ -1,5 +1,0 @@
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiscreenDroid\PhonewordPCL\bin\Debug\PhonewordPCL.dll
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiscreenDroid\PhonewordPCL\bin\Debug\PhonewordPCL.pdb
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiscreenDroid\PhonewordPCL\obj\Debug\PhonewordPCL.csprojResolveAssemblyReference.cache
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiscreenDroid\PhonewordPCL\obj\Debug\PhonewordPCL.dll
-C:\Users\SURFER\Documents\Visual Studio 2017\Projects\PhonewordMultiscreenDroid\PhonewordPCL\obj\Debug\PhonewordPCL.pdb
